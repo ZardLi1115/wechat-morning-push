@@ -24,8 +24,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ZardLi1115/wechat-morning-push.git
+cd wechat-morning-push
 ```
 
 ### 2. 安装依赖
