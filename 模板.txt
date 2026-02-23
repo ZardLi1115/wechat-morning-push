@@ -2,4 +2,4 @@
 今日{{city1.DATA}}{{climate1.DATA}}，温度{{temp_a_1.DATA}}~{{temp_a_2.DATA}},目前气温{{temp_cur_1.DATA}};
 今日{{city2.DATA}}{{climate2.DATA}}，温度{{temp_b_1.DATA}}~{{temp_b_2.DATA}},目前气温{{temp_cur_2.DATA}} 
 这是我们恋爱的第{{date1.DATA}}天，距离我们在杭州重逢还有{{date2.DATA}}天 
-小公主{{love_sentence.DATA}}
+小公主 {{love_sentence.DATA}}
